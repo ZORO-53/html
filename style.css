@@ -1,3 +1,15 @@
 body{
-    background-image: url('bg.PNG;
+    background-color: black;
+    background-size: cover;
+    height: 1500px;
+    width: auto;
+    }
+    h1{
+        color: rgb(220, 146, 9);
+        font-size: 40px;
+
+    }
+.img{
+    width: auto;
+    height: auto;
 }
