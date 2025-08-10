@@ -6,16 +6,31 @@ body{
     }
     h1{
         color: rgb(220, 146, 9);
-        font-size: 40px;
+        font-size: 60px;
 
     }
 .img{
-    margin-top: 100px;
-    margin-left: 250px;
-    margin-bottom: 100px;
-    margin-right: 250px;
+margin-left: 80px;
 }
-.anchor{
-    text-align: justify;
+
+.about{
+color: white;
+text-align: left;
+margin-left: 50px;
+margin-right: 50pxpx;
+font-size: 40px;
+width: fit-content;
+height: max-content;
+margin-top: 100px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-indent: 10px;
+}
+footer{
     color: white;
+    border-color: aliceblue;
+    border-radius: 50px;
+    text-align: justify;
+    margin-bottom: 10px;
+    margin-top: 850px;
+    border: 40px solid rgb(black, green, blue);
 }
