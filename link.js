@@ -1,1 +1,2 @@
-js
+this is a sample file
+
