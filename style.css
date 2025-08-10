@@ -1,7 +1,7 @@
 body{
     background-color: black;
     background-size: cover;
-    height: 1500px;
+    height: 2500px;
     width: auto;
     }
     h1{
@@ -10,6 +10,12 @@ body{
 
     }
 .img{
-    width: auto;
-    height: auto;
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+    margin-right: 250px;
+}
+.anchor{
+    text-align: justify;
+    color: white;
 }
